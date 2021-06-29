@@ -1,13 +1,40 @@
-Hi there! Since we don't know each other well yet, let me introduce myself and in turn, you can ping me via any of the media I laid out in the contact section. I am a Solutions Engineer, a phase by which I mean, being geared towards solving real-world problems irrespective of any technology or infrastructure bias. 
-
-A minimalist and goal-oriented person, who can stand up and take responsibilities proactively right from day one. I have worked in the domain of web and mobile application development but open to all and have got my hands in few other interesting areas too. 
-
-Also, mentorship and tech blogging is my hobby of pride, I always learnt by teaching and keep refining over time to help others while strengthening my roots. Have a look at my skill set and feel free to have a chat if our paths overlap somewhere. 😊 
-
-<hr>
+### Hello World 👋
 
 👨‍💻 Currently working as Senior RoR Engineer at Sedin Technologies - Rails Factory, India.
 
 ❤️ I love Coding, Travelling and Teaching.
 
 😇 Call me world's happiest engineer.
+
+- 🔭 Working on multiple frontend and backend project using React and Ruby on Rails.
+- 🌱 Learning design patterns in depth
+<br>
+
+## Connect with me
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sameerkumar1612/)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://sameer-kumar-1612.medium.com/)
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/9677305/sameer-kumar?tab=profile)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SameerK13390717)
+
+
+<br>
+<br>
+
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+
+<br>
+<br>
+
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+
