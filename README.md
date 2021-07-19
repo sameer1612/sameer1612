@@ -43,6 +43,7 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Extensions for your VS Code](https://sameer-kumar-1612.medium.com/top-5-extensions-for-your-vs-code-53d1c066c2e4?source=rss-67b148806abe------2)
 - [Cron Jobs — Master Worker Strategy](https://sameer-kumar-1612.medium.com/cron-jobs-master-worker-strategy-af75430a3796?source=rss-67b148806abe------2)
 - [Imperative, Declarative and DSL coding styles](https://sameer-kumar-1612.medium.com/imperative-declarative-and-dsl-coding-styles-89a50202896f?source=rss-67b148806abe------2)
 - [Service Objects — At your service…](https://sameer-kumar-1612.medium.com/service-objects-at-your-service-e3d9c2527c33?source=rss-67b148806abe------2)
