@@ -43,11 +43,11 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why does Competitive Programming love Data Structures and Algorithms?](https://sameer-kumar-1612.medium.com/why-does-competitive-programming-love-data-structures-and-algorithms-a69b53077ce8?source=rss-67b148806abe------2)
+- [01. Product of Array Except Self](https://sameer-kumar-1612.medium.com/01-product-of-array-except-self-1201083405da?source=rss-67b148806abe------2)
+- [Enum on Rails — A shallow dive.](https://sameer-kumar-1612.medium.com/enum-on-rails-a-shallow-dive-710f70b85fc4?source=rss-67b148806abe------2)
 - [Why is Shopify using Ruby on Rails to build its $3 billion dollar e-commerce business?](https://sameer-kumar-1612.medium.com/why-is-shopify-using-a-dead-programming-language-to-build-its-3-billion-dollar-e-commerce-business-7de616f69afd?source=rss-67b148806abe------2)
 - [3 CSS frameworks for you.](https://sameer-kumar-1612.medium.com/3-css-frameworks-for-you-12dc1d135855?source=rss-67b148806abe------2)
-- [Top 5 Extensions for your VS Code](https://sameer-kumar-1612.medium.com/top-5-extensions-for-your-vs-code-53d1c066c2e4?source=rss-67b148806abe------2)
-- [Cron Jobs — Master Worker Strategy](https://sameer-kumar-1612.medium.com/cron-jobs-master-worker-strategy-af75430a3796?source=rss-67b148806abe------2)
-- [Imperative, Declarative and DSL coding styles](https://sameer-kumar-1612.medium.com/imperative-declarative-and-dsl-coding-styles-89a50202896f?source=rss-67b148806abe------2)
 <!-- BLOG-POST-LIST:END -->
 
 
