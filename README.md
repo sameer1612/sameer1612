@@ -43,8 +43,8 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [React v18: useTransition  hook — Why???](https://sameer-kumar-1612.medium.com/react-v18-usetransition-hook-why-f5d8880dc64d?source=rss-67b148806abe------2)
 - [PyScript — JavaScript’s sweet cousin.](https://medium.com/tarkalabs-til/pyscript-javascripts-sweet-cousin-433129a7a118?source=rss-67b148806abe------2)
-- [Let’s Repair Ternary Operator in React JSX](https://sameer-kumar-1612.medium.com/lets-repair-ternary-operator-in-react-jsx-ecfa4af14308?source=rss-67b148806abe------2)
 - [Testim 101: Automation testing on Steroids](https://blog.tarkalabs.com/testim-101-automation-testing-on-steroids-ee5eeeb3fa50?source=rss-67b148806abe------2)
 - [Technical Consultant vs Software Engineer. Which career is for you?](https://sameer-kumar-1612.medium.com/technical-consultant-vs-software-engineer-which-career-is-for-you-b88eaf227e47?source=rss-67b148806abe------2)
 - [How do motivation and procrastination work?](https://sameer-kumar-1612.medium.com/how-do-motivation-and-procrastination-work-5a5b186e667a?source=rss-67b148806abe------2)
