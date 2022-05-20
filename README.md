@@ -1,10 +1,10 @@
 ### Hello World 👋
 
-👨‍💻 Currently working as Senior RoR Engineer at Sedin Technologies - Rails Factory, India.
+👨‍💻 Currently working as Technical Consultant at Sedin Technologies - Tarka Labs, India.
 
 ❤️ I love Coding, Travelling and Teaching.
 
-😇 Call me world's happiest engineer.
+😇 You can call me world's happiest engineer.
 
 - 🔭 Working on multiple frontend and backend project using React and Ruby on Rails.
 - 🌱 Learning design patterns in depth
