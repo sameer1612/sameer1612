@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-👨‍💻 Currently working as Technical Consultant at Sedin Technologies - Tarka Labs, India.
+👨‍💻 Currently working as Technical Consultant at Tarka Labs - Sedin Technologies, India.
 
 ❤️ I love Coding, Travelling and Teaching.
 
