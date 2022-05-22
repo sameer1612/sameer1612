@@ -48,6 +48,11 @@
 - [PyScript — JavaScript’s sweet cousin.](https://medium.com/tarkalabs-til/pyscript-javascripts-sweet-cousin-433129a7a118?source=rss-67b148806abe------2)
 - [Testim 101: Automation testing on Steroids](https://blog.tarkalabs.com/testim-101-automation-testing-on-steroids-ee5eeeb3fa50?source=rss-67b148806abe------2)
 - [Technical Consultant vs Software Engineer. Which career is for you?](https://sameer-kumar-1612.medium.com/technical-consultant-vs-software-engineer-which-career-is-for-you-b88eaf227e47?source=rss-67b148806abe------2)
+- [How do motivation and procrastination work?](https://sameer-kumar-1612.medium.com/how-do-motivation-and-procrastination-work-5a5b186e667a?source=rss-67b148806abe------2)
+- [Why does Competitive Programming love Data Structures and Algorithms?](https://medium.com/nerd-for-tech/why-does-competitive-programming-love-data-structures-and-algorithms-a69b53077ce8?source=rss-67b148806abe------2)
+- [01. Product of Array Except Self](https://sameer-kumar-1612.medium.com/01-product-of-array-except-self-1201083405da?source=rss-67b148806abe------2)
+- [Enum on Rails — A shallow dive.](https://sameer-kumar-1612.medium.com/enum-on-rails-a-shallow-dive-710f70b85fc4?source=rss-67b148806abe------2)
+- [Why is Shopify using Ruby on Rails to build its $3 billion dollar e-commerce business?](https://sameer-kumar-1612.medium.com/why-is-shopify-using-a-dead-programming-language-to-build-its-3-billion-dollar-e-commerce-business-7de616f69afd?source=rss-67b148806abe------2)
 <!-- BLOG-POST-LIST:END -->
 
 
