@@ -43,9 +43,9 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [React v18: Why useEffect suddenly go crazy?](https://medium.com/tarkalabs-til/react-v18-why-useeffect-suddenly-go-crazy-db1b42eb2730?source=rss-67b148806abe------2)
+- [React v18: Why useEffect Suddenly Got Crazy?](https://betterprogramming.pub/react-v18-why-useeffect-suddenly-go-crazy-db1b42eb2730?source=rss-67b148806abe------2)
 - [Console.log and his Ninja Pals](https://medium.com/tarkalabs-til/console-log-and-his-ninja-pals-4fc0863ad5f4?source=rss-67b148806abe------2)
-- [React v18: useTransition  hook — Why???](https://sameer-kumar-1612.medium.com/react-v18-usetransition-hook-why-f5d8880dc64d?source=rss-67b148806abe------2)
+- [React v18: A First Look at useTransition hook — Wait, but Why?](https://betterprogramming.pub/react-v18-usetransition-hook-why-f5d8880dc64d?source=rss-67b148806abe------2)
 - [PyScript — JavaScript’s sweet cousin.](https://medium.com/tarkalabs-til/pyscript-javascripts-sweet-cousin-433129a7a118?source=rss-67b148806abe------2)
 - [Testim 101: Automation testing on Steroids](https://blog.tarkalabs.com/testim-101-automation-testing-on-steroids-ee5eeeb3fa50?source=rss-67b148806abe------2)
 - [Technical Consultant vs Software Engineer. Which career is for you?](https://sameer-kumar-1612.medium.com/technical-consultant-vs-software-engineer-which-career-is-for-you-b88eaf227e47?source=rss-67b148806abe------2)
