@@ -43,6 +43,7 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [React v18: Demystifying useRef, forwardRef, and useImperativeHandle](https://betterprogramming.pub/react-v18-demystifying-useref-forwardref-and-useimperativehandle-feec2fc5b2f6?source=rss-67b148806abe------2)
 - [React v18: Why useEffect Suddenly Got Crazy?](https://betterprogramming.pub/react-v18-why-useeffect-suddenly-go-crazy-db1b42eb2730?source=rss-67b148806abe------2)
 - [Console.log and his Ninja Pals](https://towardsdev.com/console-log-and-his-ninja-pals-4fc0863ad5f4?source=rss-67b148806abe------2)
 - [React v18: A First Look at useTransition hook — Wait, but Why?](https://betterprogramming.pub/react-v18-usetransition-hook-why-f5d8880dc64d?source=rss-67b148806abe------2)
@@ -52,7 +53,6 @@
 - [How do motivation and procrastination work?](https://sameer-kumar-1612.medium.com/how-do-motivation-and-procrastination-work-5a5b186e667a?source=rss-67b148806abe------2)
 - [Why does Competitive Programming love Data Structures and Algorithms?](https://medium.com/nerd-for-tech/why-does-competitive-programming-love-data-structures-and-algorithms-a69b53077ce8?source=rss-67b148806abe------2)
 - [01. Product of Array Except Self](https://sameer-kumar-1612.medium.com/01-product-of-array-except-self-1201083405da?source=rss-67b148806abe------2)
-- [Enum on Rails — A shallow dive.](https://sameer-kumar-1612.medium.com/enum-on-rails-a-shallow-dive-710f70b85fc4?source=rss-67b148806abe------2)
 <!-- BLOG-POST-LIST:END -->
 
 
