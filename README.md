@@ -43,7 +43,7 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [React v18: Demystifying useRef, forwardRef, and useImperativeHandle](https://betterprogramming.pub/react-v18-demystifying-useref-forwardref-and-useimperativehandle-feec2fc5b2f6?source=rss-67b148806abe------2)
+- [React v18: useRef — What, When and Why?](https://betterprogramming.pub/react-v18-demystifying-useref-forwardref-and-useimperativehandle-feec2fc5b2f6?source=rss-67b148806abe------2)
 - [React v18: Why useEffect Suddenly Got Crazy?](https://betterprogramming.pub/react-v18-why-useeffect-suddenly-go-crazy-db1b42eb2730?source=rss-67b148806abe------2)
 - [Console.log and his Ninja Pals](https://towardsdev.com/console-log-and-his-ninja-pals-4fc0863ad5f4?source=rss-67b148806abe------2)
 - [React v18: A First Look at useTransition hook — Wait, but Why?](https://betterprogramming.pub/react-v18-usetransition-hook-why-f5d8880dc64d?source=rss-67b148806abe------2)
