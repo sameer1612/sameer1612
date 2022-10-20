@@ -43,6 +43,7 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains Fleet — A VS Code killer?](https://medium.com/nerd-for-tech/jetbrains-fleet-a-vs-code-killer-f662f45f6478?source=rss-67b148806abe------2)
 - [5 software that makes a pro productive.](https://sameer-kumar-1612.medium.com/5-software-that-makes-a-pro-productive-fb33f6f45c22?source=rss-67b148806abe------2)
 - [When to use “useImperativeHandle” and “forwardRefs” in React 18](https://betterprogramming.pub/when-to-use-useimperativehandle-and-forwardrefs-in-react-18-89cce42b3309?source=rss-67b148806abe------2)
 - [React v18: useRef — What, When and Why?](https://betterprogramming.pub/react-v18-demystifying-useref-forwardref-and-useimperativehandle-feec2fc5b2f6?source=rss-67b148806abe------2)
@@ -52,7 +53,6 @@
 - [PyScript — JavaScript’s sweet cousin.](https://medium.com/tarkalabs-til/pyscript-javascripts-sweet-cousin-433129a7a118?source=rss-67b148806abe------2)
 - [Testim 101: Automation testing on Steroids](https://blog.tarkalabs.com/testim-101-automation-testing-on-steroids-ee5eeeb3fa50?source=rss-67b148806abe------2)
 - [Technical Consultant vs Software Engineer. Which career is for you?](https://sameer-kumar-1612.medium.com/technical-consultant-vs-software-engineer-which-career-is-for-you-b88eaf227e47?source=rss-67b148806abe------2)
-- [How do motivation and procrastination work?](https://sameer-kumar-1612.medium.com/how-do-motivation-and-procrastination-work-5a5b186e667a?source=rss-67b148806abe------2)
 <!-- BLOG-POST-LIST:END -->
 
 
