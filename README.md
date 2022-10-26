@@ -10,6 +10,8 @@
 - 🌱 Learning design patterns in depth
 <br>
 
+[![@sameer1612's Holopin board](https://holopin.me/sameer1612)](https://holopin.io/@sameer1612)
+
 ## Connect with me
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/sameerkumar308/im-a-cm-b.svg)](https://www.codementor.io/@sameerkumar308?refer=badge)
