@@ -6,8 +6,8 @@
 
 😇 You can call me world's happiest engineer.
 
-- 🔭 Working on multiple frontend and backend project using React and Ruby on Rails.
-- 🌱 Learning design patterns in depth
+- 🔭 Working on a few full stack typescript projects.
+- 🌱 Learning sw architecture in depth.
 <br>
 
 [![@sameer1612's Holopin board](https://holopin.me/sameer1612)](https://holopin.io/@sameer1612)
