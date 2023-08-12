@@ -2,11 +2,11 @@
 
 👨‍💻 Currently working as Technical Consultant at Tarka Labs - Sedin Technologies, India.
 
-❤️ I love Coding, Travelling and Teaching.
+❤️ I love Coding, Travelling, and Teaching.
 
-😇 You can call me world's happiest engineer.
+😇 You can call me the world's happiest engineer.
 
-- 🔭 Working on a few full stack typescript projects.
+- 🔭 Working on a few full-stack typescript projects.
 - 🌱 Learning sw architecture in depth.
 <br>
 
@@ -14,7 +14,6 @@
 
 ## Connect with me
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/sameerkumar308/im-a-cm-b.svg)](https://www.codementor.io/@sameerkumar308?refer=badge)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sameerkumar1612/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://sameer-kumar-1612.medium.com/)
 [<img align="left" alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/sameer1612)
