@@ -58,6 +58,7 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Overcoming Vim-Phobia: My Journey of Redemption](https://betterprogramming.pub/overcoming-vim-phobia-my-journey-of-redemption-d1114e6922ab?source=rss-67b148806abe------2)
 - [JetBrains Fleet — A VS Code killer?](https://medium.com/nerd-for-tech/jetbrains-fleet-a-vs-code-killer-f662f45f6478?source=rss-67b148806abe------2)
 - [5 software that makes a pro productive.](https://sameer-kumar-1612.medium.com/5-software-that-makes-a-pro-productive-fb33f6f45c22?source=rss-67b148806abe------2)
 - [When to use “useImperativeHandle” and “forwardRefs” in React 18](https://betterprogramming.pub/when-to-use-useimperativehandle-and-forwardrefs-in-react-18-89cce42b3309?source=rss-67b148806abe------2)
@@ -67,7 +68,6 @@
 - [React v18: A First Look at useTransition hook — Wait, but Why?](https://betterprogramming.pub/react-v18-usetransition-hook-why-f5d8880dc64d?source=rss-67b148806abe------2)
 - [PyScript — JavaScript’s sweet cousin.](https://medium.com/tarkalabs-til/pyscript-javascripts-sweet-cousin-433129a7a118?source=rss-67b148806abe------2)
 - [Testim 101: Automation testing on Steroids](https://blog.tarkalabs.com/testim-101-automation-testing-on-steroids-ee5eeeb3fa50?source=rss-67b148806abe------2)
-- [Technical Consultant vs Software Engineer. Which career is for you?](https://sameer-kumar-1612.medium.com/technical-consultant-vs-software-engineer-which-career-is-for-you-b88eaf227e47?source=rss-67b148806abe------2)
 <!-- BLOG-POST-LIST:END -->
 
 
