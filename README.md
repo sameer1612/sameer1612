@@ -6,14 +6,10 @@
 
 [![@sameer1612's Holopin board](https://holopin.me/sameer1612)](https://holopin.io/@sameer1612)
 
-### Hi there 👋
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer1612&theme=dracula&show_icons=true&include_all_commits=true)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1612&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sameer1612&theme=dracula)](https://git.io/streak-stats)
+
 ## Connect with me
 [<img align="left" alt="my website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://hi-sameer.vercel.app/)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sameerkumar1612/)
