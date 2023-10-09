@@ -6,9 +6,9 @@
 
 [![@sameer1612's Holopin board](https://holopin.me/sameer1612)](https://holopin.io/@sameer1612)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1612&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1612&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sameer1612&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sameer1612&theme=dark)](https://git.io/streak-stats)
 
 ## Connect with me
 [<img align="left" alt="my website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://hi-sameer.vercel.app/)
