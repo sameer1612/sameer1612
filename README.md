@@ -6,8 +6,6 @@
 
 [![@sameer1612's Holopin board](https://holopin.me/sameer1612)](https://holopin.io/@sameer1612)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1612&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sameer1612&theme=dark)](https://git.io/streak-stats)
 
 ## Connect with me
