@@ -61,6 +61,7 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Functional Programming for Humans — Foundations](https://blog.tarkalabs.com/functional-programming-for-humans-foundations-861bd9b40718?source=rss-67b148806abe------2)
 - [PostGraphile — The Gateway Drug To GraphQL](https://betterprogramming.pub/postgraphile-the-gateway-drug-to-graphql-c6b335cd2bda?source=rss-67b148806abe------2)
 - [No More Drama: Conflict Resolution](https://sameer-kumar-1612.medium.com/no-more-drama-conflict-resolution-b33d94d1dc75?source=rss-67b148806abe------2)
 - [The Pragmatic Guide to Your First JavaScript Library](https://betterprogramming.pub/the-pragmatic-guide-to-your-first-javascript-library-516a7b08c677?source=rss-67b148806abe------2)
@@ -70,7 +71,6 @@
 - [When to use “useImperativeHandle” and “forwardRefs” in React 18](https://betterprogramming.pub/when-to-use-useimperativehandle-and-forwardrefs-in-react-18-89cce42b3309?source=rss-67b148806abe------2)
 - [React v18: useRef — What, When and Why?](https://betterprogramming.pub/react-v18-demystifying-useref-forwardref-and-useimperativehandle-feec2fc5b2f6?source=rss-67b148806abe------2)
 - [React v18: Why useEffect Suddenly Got Crazy?](https://betterprogramming.pub/react-v18-why-useeffect-suddenly-go-crazy-db1b42eb2730?source=rss-67b148806abe------2)
-- [Console.log and his Ninja Pals](https://towardsdev.com/console-log-and-his-ninja-pals-4fc0863ad5f4?source=rss-67b148806abe------2)
 <!-- BLOG-POST-LIST:END -->
 
 
