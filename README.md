@@ -61,7 +61,7 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Functional Programming for Humans — Foundations](https://blog.tarkalabs.com/functional-programming-for-humans-foundations-861bd9b40718?source=rss-67b148806abe------2)
+- [Functional Programming for Humans — Foundations](https://medium.com/nerd-for-tech/functional-programming-for-humans-foundations-861bd9b40718?source=rss-67b148806abe------2)
 - [PostGraphile — The Gateway Drug To GraphQL](https://betterprogramming.pub/postgraphile-the-gateway-drug-to-graphql-c6b335cd2bda?source=rss-67b148806abe------2)
 - [No More Drama: Conflict Resolution](https://sameer-kumar-1612.medium.com/no-more-drama-conflict-resolution-b33d94d1dc75?source=rss-67b148806abe------2)
 - [The Pragmatic Guide to Your First JavaScript Library](https://betterprogramming.pub/the-pragmatic-guide-to-your-first-javascript-library-516a7b08c677?source=rss-67b148806abe------2)
